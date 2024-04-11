@@ -1,0 +1,316 @@
+{
+  "auth": {
+    "password": "Password",
+    "common": {
+      "invalidGeneric": "Invalid data, please retry later",
+      "invalidParameter": "There is a invalid parameter in your login details, cannot proceed",
+      "tooManyCodes": "Code sending limit exceeded, please retry later",
+      "failedSendingCode": "Failed sending the confirmation code, are you sure you typed a functioning email address ?",
+      "notAuthorized": "You are not authorized to do this operation",
+      "tooManyRequests": "Too many requests, please retry later"
+    },
+    "usernamePhone": "Username/PhoneNumber",
+    "changePasswordRequired": "Please change your password",
+    "forgotPasswordLabel": "Forgot password ?",
+    "orSignInWith": "or sign in with",
+    "codeSentSuccessfully": "A code has been sent to your email, please check!",
+    "forgotPass": {
+      "enterCodeAndPassDescription": "Please set your new password below and enter the received code",
+      "description": "Please enter your email, we will send you a code for confirmation",
+      "sendCode": "Send Code",
+      "title": "Please enter your email"
+    },
+    "signup": {
+      "invalidGeneric": "Invalid data, cannot sign up, please retry later",
+      "userExists": "Given user already exists, please login or go to forget password",
+      "invalidPass": "Given password is not accepted, please type another one"
+    },
+    "signInWithGoogleLabel": "Sign in with Google",
+    "confirmationCode": "Confirmation code received on email",
+    "rePassword": "Repeat Password",
+    "signInBtn": {
+      "emailNotVerified": "Cannot sign in, email its not verified!"
+    },
+    "signInWithAppleLabel": "Sign in with Apple",
+    "verifyEmail": "Verify Email",
+    "lastname": "Last name",
+    "changePasswordLabel": "Change password",
+    "phoneNumber": "Phone number",
+    "firstname": "First name",
+    "signUpLabel": "Don’t Have Account? Sign UP",
+    "backToSignInLabel": "Back to sign in",
+    "google": "Google",
+    "signInLabel": "Sign In",
+    "apple": "Apple",
+    "email": "Email",
+    "continueBtn": "Continue",
+    "verifyEmailInstructions": "Please enter the number code that you have received on your email ✉️",
+    "confirm": "Confirm",
+    "facebook": "Facebook",
+    "orSignupWith": "or sign up with",
+    "codeResentSuccessfully": "A new code has been sent to your email, please check!",
+    "signUpShortLabel": "Sign Up",
+    "signInWithFbLabel": "Sign in with Facebook",
+    "newPassword": "New Password",
+    "resendCode": "Resend code",
+    "repeatNewPassword": "Repeat New Password"
+  },
+  "common": {
+    "serviceType": "Service type",
+    "hospitals": "Hospitals",
+    "address": "Address",
+    "addressComp": {
+      "apt": "Apt, suite, etc.",
+      "postalCode": "Postal code",
+      "city": "City",
+      "address": "Address",
+      "province": "Province",
+      "country": "Country"
+    },
+    "name": "Name",
+    "fromLibrary": "From Photo Library",
+    "doctors": "Doctors",
+    "сhoice": {
+      "cardiology": "Cardiology"
+    },
+    "clear": "Clear",
+    "applyFilters": "Apply Filters",
+    "submit": "Submit",
+    "welcome": "Welcome",
+    "add": "Add",
+    "respiratoryProblem": "Respiratory problem",
+    "category": "Category",
+    "addReview": "Add Review",
+    "getStarted": "Get Started",
+    "addNew": "Add new",
+    "kmAway": "km away",
+    "selectCountryDropdown": "Select Country",
+    "fromCamera": "From Camera",
+    "choosePhoto": "Choose photo",
+    "plus": "+",
+    "save": "Save",
+    "cure_care": "Cure.care",
+    "upcomingAppointments": "Upcoming Appointments",
+    "loading": "Loading ...",
+    "select": "Select",
+    "selectCompanyType": "Select Company Type",
+    "yearsExperience": "Years experience",
+    "book": "Book",
+    "new": "New",
+    "or": "or",
+    "services": "Services",
+    "reviews": "reviews",
+    "viewAll": "View All",
+    "website": "Website"
+  },
+  "header": {
+    "applyAsDoctor": {
+      "certificationsComp": {
+        "credentialUrl": "Credential Url",
+        "title": "Education",
+        "credentialId": "Credential Id",
+        "degree": "Degree",
+        "fieldOfStudy": "Field of study",
+        "university": "University",
+        "completionDate": "Completion date",
+        "issuingOrg": "Issuing Organisation",
+        "expireDate": "Expire Date"
+      },
+      "employmentType": "5. Employment type",
+      "profession": "3. Profession",
+      "educationComp": {
+        "fieldOfStudy": "Field of study",
+        "degree": "Degree",
+        "issuingOrg": "Issuing Organisation",
+        "credentialUrl": "Credential Url",
+        "expireDate": "Expire Date",
+        "credentialId": "Credential Id",
+        "completionDate": "Completion date",
+        "university": "University",
+        "title": "Education"
+      },
+      "personalDetailsComp": {
+        "title": "Enter your personal details"
+      },
+      "services": "7. Services",
+      "inviteOthers": "8. Invite others",
+      "intro": "Apply as a doctor",
+      "professionComp": {
+        "title": "Choose your profession"
+      },
+      "personalDetails": "2. Personal Details",
+      "education": "4. Education",
+      "kyc": "6. KYC"
+    },
+    "searchAnything": "Search anything ...",
+    "doctorHome": "Doctor Home",
+    "applyAsOrg": {
+      "orgDetailsComp": {
+        "selectRegistrationCountry": "Select registration country",
+        "address": "Address",
+        "identifier": "Registration identifier",
+        "registration": "Registration details",
+        "title": "Enter your organisation details"
+      },
+      "type": "Organisation type",
+      "services": "Services",
+      "kyc": "KYC",
+      "intro": "Apply as a hospital/clinique/org",
+      "details": "Organisation details",
+      "inviteOthers": "Invite others",
+      "addressComp": {
+        "title": "Configure address"
+      }
+    },
+    "search": "Search",
+    "hospitalHome": "Hospital Home",
+    "home": "Home",
+    "appointmentsDetail": "Appointments detail",
+    "appointments": "Appointments",
+    "favorites": "Favorites",
+    "patientHome": "Patient Home"
+  },
+  "search": {
+    "modal": {
+      "legs": "Legs",
+      "noCategory": "No category",
+      "general": "General",
+      "heart": "Heart",
+      "selectCategoryType": "Select category",
+      "kidneys": "Kidneys",
+      "whitening": "Whitening",
+      "selectServiceType": "Select service type",
+      "selectItem": "Select item",
+      "cleaning": "Cleaning",
+      "birth": "Birth",
+      "stomach": "Stomach",
+      "extraction": "Extraction",
+      "lungs": "Lungs",
+      "tooth": "Tooth"
+    },
+    "emptyFilter": {
+      "subtitle": "You can use filters to get clear results.",
+      "title": "Search for services, doctors and hospitals."
+    },
+    "price": "Price",
+    "services": "Services",
+    "title": "Search",
+    "doctors": "Doctors",
+    "city": "Enter city",
+    "hospitals": "Hospitals",
+    "emptyResults": {
+      "subtitle": "Please fine-tune your search",
+      "title": "No results"
+    },
+    "emptyCommon": {
+      "subtitle": "",
+      "title": "No items"
+    },
+    "current": "Around current location",
+    "filters": "Search filters",
+    "location": "Location"
+  },
+  "account": {
+    "menu": {
+      "settings": "Settings",
+      "chat": "Chat",
+      "notifications": "Notifications",
+      "gdpr": "GDPR",
+      "securitySection": "Security",
+      "legal": "Legal",
+      "password": "Password",
+      "createAcountMess": "Want to create one now ?",
+      "privacy": "Privacy Policy",
+      "mfa": "Multi factor authentication",
+      "faq": "FAQ",
+      "personalInfo": "Personal information",
+      "tc": "Terms and conditions",
+      "accountSettingsSection": "Account settings",
+      "about": "About",
+      "absenceAccountMess": "You do not have a doctor account.",
+      "helpSection": "Help",
+      "createProvider": "Apply as a doctor"
+    },
+    "password": {
+      "errorMessage": "Incorrect username or password",
+      "newPassword": "New password",
+      "passwordChanged": "Password successfully changed",
+      "repeatPassword": "Repeat password",
+      "currentPassword": "Current password"
+    },
+    "buttons": {
+      "directions": "Directions",
+      "cancel": "Cancel",
+      "reschedule": "Reschedule"
+    },
+    "switcher": {
+      "switchHospital": "Switch to hospital account",
+      "switchDoctor": "Switch to doctor account"
+    }
+  },
+  "validation": {
+    "confirmEmail": {
+      "codeLimitExceeded": "Code sending limit has been exceeded, please retry later",
+      "codeExpired": "Given code has expired, click resend to get a new one!",
+      "invalidCodeGeneric": "Invalid code given, please retry later or resend code",
+      "codeFailedAttemptsExceeded": "Too many failed attempts, please retry later",
+      "codeUserNotFound": "User for this code has not been found",
+      "invalidCode": "Invalid code given, please re-enter it",
+      "codeRequestsExceeded": "Too many requests, please retry later"
+    },
+    "firstNameInvalid": "Given first name should be at least 1 character long",
+    "invalid": "Given value should be at least 1 character long",
+    "passwordInvalid": "Password should be at least 8 characters long and contain capital, small letters and numbers ",
+    "failedToLogin": "Failed to login, username/password invalid",
+    "lastNameInvalid": "Given last name should be at least 1 character long",
+    "nameInvalid": "Given name should be at least 1 character long",
+    "failedToChangePass": "Failed to change password",
+    "emailInvalid": "Given email is invalid",
+    "reviewInvalid": "Review should be at least 1 character long",
+    "urlInvalid": "Given url is invalid",
+    "yearsExperienceInvalid": "Years of experience is invalid!",
+    "passwordRepeatInvalid": "Password and repeat password do not match!"
+  },
+  "detail": {
+    "doctor": "Doctor detail",
+    "services": "Services",
+    "reviews": "Reviews",
+    "hospitals": "Hospitals",
+    "info": "Info",
+    "doctors": "Doctors",
+    "address": "Address"
+  },
+  "review": {
+    "levels": {
+      "five": "Exceptional",
+      "three": "Ok",
+      "zero": "Please rate",
+      "four": "Good",
+      "one": "Really bad",
+      "two": "Dissapointed"
+    },
+    "addReview": "Add review",
+    "modalTitle": "Add review",
+    "btnAddNew": "Add new"
+  },
+  "error": {
+    "fetching": {
+      "services": "Error fetching services",
+      "reviews": "Error fetching reviews",
+      "image": "Error fetching image"
+    }
+  },
+  "drawer": {
+    "applyAsOrg": "Apply as organisation",
+    "applyAsDoctor": "Apply as doctor"
+  },
+  "patient": {
+    "appointments": {
+      "noAppointments": "No appointments yet",
+      "create": "Create Appointment"
+    },
+    "home": {
+      "categories": "Categories"
+    }
+  }
+}

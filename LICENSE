@@ -1,0 +1,27 @@
+MIT License
+
+Copyright (c) 2018 Victor K Varghese
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+ curl -vv -X 'GET' \
+  'https://stage.app-cure.care/api/practitionerRoles/getServicesOfPractitioner/103' \
+  -H 'accept: */*' \
+  -H 'Authorization: Bearer eyJraWQiOiI2SGpGUWdNK0J2cG51R09vUncza1FSQ3JNaXFja1wvalBMZnNjK0xqbG5XST0iLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIyNTllMzU4OS02M2I2LTQ1Y2UtOWRkOC0yMDZlZmFkZDY5MTgiLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiaXNzIjoiaHR0cHM6XC9cL2NvZ25pdG8taWRwLmV1LXdlc3QtMS5hbWF6b25hd3MuY29tXC9ldS13ZXN0LTFfTTNhWm8zQWFVIiwiY29nbml0bzp1c2VybmFtZSI6IjI1OWUzNTg5LTYzYjYtNDVjZS05ZGQ4LTIwNmVmYWRkNjkxOCIsImdpdmVuX25hbWUiOiJHZW9yZ2UiLCJvcmlnaW5fanRpIjoiMGMxNTYwMzEtNTRhMS00YzhkLTliZWEtMGZmYTU5NzYxMWUyIiwiYXVkIjoiMzY1Zm9sdTgzbjg1NzNoZDcyMm1qaDVsa3UiLCJldmVudF9pZCI6IjdkZThhYzdkLTQyODMtNGM1Ni1hYWIwLTA2ZmYxYjFhYTYzMyIsInRva2VuX3VzZSI6ImlkIiwiYXV0aF90aW1lIjoxNjk4MTUxMzExLCJuYW1lIjoiR2VvcmdlIFBsYXRvbiIsImV4cCI6MTY5ODQxNTYzOCwiaWF0IjoxNjk4NDEyMDM4LCJmYW1pbHlfbmFtZSI6IlBsYXRvbiIsImp0aSI6ImEwNDA3OGEzLTE2MGQtNGRhYy05Y2I4LTllNjM0MDY4YWNmMSIsImVtYWlsIjoiZ2VvcmdlLnBsYXRvbi43K2hjYzQ1QGdtYWlsLmNvbSJ9.oaLZa1Tmf4LUi57Q8Dv7qCdN3S3ft3dpS8VnU3OCpMVoTpBouoPOH00Sq7Lvrr67QpPiKGBh4e_gUWRnJaNbnUp9YKOMlZ8jIYBQva2pAYSl5zp2eZCP6nSz6Lb1gMH9gyf58NsGA8UMPWfWaWPKtyL0f4MlJ5vn96sqSF__abvi5qnDdvLSUBsTjblIXvJI9Q19mlvned4Hb7ZqXJ3XwiAGRIxDd-h2V1H9qgz41QxW3XLOXy36Hq2AQ_lirc3nZ4nYcwnW3FRXALEg47zlnwwSMuZ4VyDbbHVi7Co0vNwZ4jD8Gg90LG5l5WLU8L69LqEQ8xilro4NYx8QDT-R-g'

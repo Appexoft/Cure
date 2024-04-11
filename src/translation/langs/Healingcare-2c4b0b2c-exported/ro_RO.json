@@ -1,0 +1,316 @@
+{
+  "auth": {
+    "password": "Parola",
+    "common": {
+      "invalidGeneric": "Date nevalide, vă rugăm să reîncercați mai târziu",
+      "invalidParameter": "Există un parametru nevalid în detaliile dvs. de conectare, nu puteți continua",
+      "tooManyCodes": "Limita de trimitere a codului a fost depășită, vă rugăm să reîncercați mai târziu",
+      "failedSendingCode": "Nu s-a trimis codul de confirmare, sunteți sigur că ați introdus o adresă de e-mail funcțională?",
+      "notAuthorized": "Nu sunteți autorizat să faceți această operațiune",
+      "tooManyRequests": "Prea multe solicitări, vă rugăm să reîncercați mai târziu"
+    },
+    "usernamePhone": "Nume de utilizator/Număr de telefon",
+    "changePasswordRequired": "Vă rugăm să vă schimbați parola",
+    "forgotPasswordLabel": "Aţi uitat parola ?",
+    "orSignInWith": "sau conectați-vă cu",
+    "codeSentSuccessfully": "Un cod a fost trimis pe adresa ta de e-mail, te rog verifica!",
+    "forgotPass": {
+      "enterCodeAndPassDescription": "Setați noua parolă mai jos și introduceți codul primit",
+      "description": "Vă rugăm să introduceți adresa dvs. de e-mail, vă vom trimite un cod pentru confirmare",
+      "sendCode": "Trimite codul",
+      "title": "Vă rugăm să introduceți adresa dvs. de email"
+    },
+    "signup": {
+      "invalidGeneric": "Date nevalide, nu vă puteți înscrie, vă rugăm să reîncercați mai târziu",
+      "userExists": "Un utilizator dat există deja, vă rugăm să vă autentificați sau să uitați parola",
+      "invalidPass": "Parola dată nu este acceptată, vă rugăm să introduceți alta"
+    },
+    "signInWithGoogleLabel": "Conectați-vă cu Google",
+    "confirmationCode": "Cod de confirmare primit pe e-mail",
+    "rePassword": "Repetați parola",
+    "signInBtn": {
+      "emailNotVerified": "Nu se poate conecta, e-mailul nu a fost verificat!"
+    },
+    "signInWithAppleLabel": "Conectați-vă cu Apple",
+    "verifyEmail": "Verificați e-mail",
+    "lastname": "Nume",
+    "changePasswordLabel": "Schimbaţi parola",
+    "phoneNumber": "Număr de telefon",
+    "firstname": "Nume",
+    "signUpLabel": "Nu ai cont? Inscrie-te",
+    "backToSignInLabel": "Înapoi pentru a vă conecta",
+    "google": "Google",
+    "signInLabel": "Conectare",
+    "apple": "Măr",
+    "email": "E-mail",
+    "continueBtn": "Continua",
+    "verifyEmailInstructions": "Vă rugăm să introduceți codul numeric pe care l-ați primit pe e-mail ✉️",
+    "confirm": "A confirma",
+    "facebook": "Facebook",
+    "orSignupWith": "sau înscrieți-vă cu",
+    "codeResentSuccessfully": "Un nou cod a fost trimis pe e-mailul dvs., vă rugăm să verificați!",
+    "signUpShortLabel": "Inscrie-te",
+    "signInWithFbLabel": "Logheaza-te cu Facebook",
+    "newPassword": "Parolă Nouă",
+    "resendCode": "Retrimite codul",
+    "repeatNewPassword": "Repeta noua parola"
+  },
+  "common": {
+    "serviceType": "Tipul serviciului",
+    "hospitals": "Spitale",
+    "address": "Abordare",
+    "addressComp": {
+      "apt": "Apt, apartament etc.",
+      "postalCode": "Cod poștal",
+      "city": "Oraș",
+      "address": "Abordare",
+      "province": "Provincie",
+      "country": "Țară"
+    },
+    "name": "Nume",
+    "fromLibrary": "Din fototeca",
+    "doctors": "Doctori",
+    "сhoice": {
+      "cardiology": "Cardiologie"
+    },
+    "clear": "clar",
+    "applyFilters": "Aplicați filtre",
+    "submit": "Trimite",
+    "welcome": "Bine ati venit",
+    "add": "Adăuga",
+    "respiratoryProblem": "Problemă respiratorie",
+    "category": "Categorie",
+    "addReview": "Adăugați o recenzie",
+    "getStarted": "Incepe",
+    "addNew": "Adăuga nou",
+    "kmAway": "km distanta",
+    "selectCountryDropdown": "Selecteaza tara",
+    "fromCamera": "De la Camera",
+    "choosePhoto": "Alege fotografia",
+    "plus": "",
+    "save": "Salvați",
+    "cure_care": "Vindecare.îngrijire",
+    "upcomingAppointments": "Numiri viitoare",
+    "loading": "Se încarcă ...",
+    "select": "Selectați",
+    "selectCompanyType": "Selectați tipul companiei",
+    "yearsExperience": "Ani de experiență",
+    "book": "Carte",
+    "new": "Nou",
+    "or": "sau",
+    "services": "Servicii",
+    "reviews": "recenzii",
+    "viewAll": "A vedea tot",
+    "website": "Site-ul web"
+  },
+  "header": {
+    "applyAsDoctor": {
+      "certificationsComp": {
+        "credentialUrl": "Url de acreditare",
+        "title": "Educaţie",
+        "credentialId": "Id. acreditiv",
+        "degree": "Grad",
+        "fieldOfStudy": "Domeniu de studiu",
+        "university": "Universitate",
+        "completionDate": "Data finalizării",
+        "issuingOrg": "Organizația emitentă",
+        "expireDate": "Data de expirare"
+      },
+      "employmentType": "5. Tipul de angajare",
+      "profession": "3. Profesia",
+      "educationComp": {
+        "fieldOfStudy": "Domeniu de studiu",
+        "degree": "Grad",
+        "issuingOrg": "Organizația emitentă",
+        "credentialUrl": "Url de acreditare",
+        "expireDate": "Data de expirare",
+        "credentialId": "Id. acreditiv",
+        "completionDate": "Data finalizării",
+        "university": "Universitate",
+        "title": "Educaţie"
+      },
+      "personalDetailsComp": {
+        "title": "Introduceți datele dvs. personale"
+      },
+      "services": "7. Servicii",
+      "inviteOthers": "8. Invitați-i pe alții",
+      "intro": "Aplicați ca medic",
+      "professionComp": {
+        "title": "Alege-ți profesia"
+      },
+      "personalDetails": "2. Detalii personale",
+      "education": "4. Educație",
+      "kyc": "6. KYC"
+    },
+    "searchAnything": "Cauta orice...",
+    "doctorHome": "Doctor Acasă",
+    "applyAsOrg": {
+      "orgDetailsComp": {
+        "selectRegistrationCountry": "Selectați țara de înregistrare",
+        "address": "Abordare",
+        "identifier": "Identificator de înregistrare",
+        "registration": "Detalii de înregistrare",
+        "title": "Introduceți detaliile organizației dvs"
+      },
+      "type": "Tip organizație",
+      "services": "Servicii",
+      "kyc": "KYC",
+      "intro": "Aplicați ca spital/clinică/org",
+      "details": "Detalii de organizare",
+      "inviteOthers": "Invitați-i pe alții",
+      "addressComp": {
+        "title": "Configurați adresa"
+      }
+    },
+    "search": "Căutare",
+    "hospitalHome": "Casa Spitalului",
+    "home": "Acasă",
+    "appointmentsDetail": "Detaliu programări",
+    "appointments": "Numiri",
+    "favorites": "Favorite",
+    "patientHome": "Acasa pacientului"
+  },
+  "search": {
+    "modal": {
+      "legs": "Picioarele",
+      "noCategory": "Fără categorie",
+      "general": "General",
+      "heart": "inima",
+      "selectCategoryType": "Selecteaza categoria",
+      "kidneys": "Rinichi",
+      "whitening": "Albire",
+      "selectServiceType": "Selectați tipul serviciului",
+      "selectItem": "Selectați elementul",
+      "cleaning": "Curatenie",
+      "birth": "Naștere",
+      "stomach": "Stomac",
+      "extraction": "Extracţie",
+      "lungs": "Plămânii",
+      "tooth": "Dinte"
+    },
+    "emptyFilter": {
+      "subtitle": "Puteți folosi filtre pentru a obține rezultate clare.",
+      "title": "Caută servicii, medici și spitale."
+    },
+    "price": "Preț",
+    "services": "Servicii",
+    "title": "Căutare",
+    "doctors": "Doctori",
+    "city": "Intrați în oraș",
+    "hospitals": "Spitale",
+    "emptyResults": {
+      "subtitle": "Vă rugăm să reglați fin căutarea",
+      "title": "Fara rezultate"
+    },
+    "emptyCommon": {
+      "subtitle": "",
+      "title": "Fără articole"
+    },
+    "current": "În jurul locației actuale",
+    "filters": "Filtre de căutare",
+    "location": "Locație"
+  },
+  "account": {
+    "menu": {
+      "settings": "Setări",
+      "chat": "conversație",
+      "notifications": "Notificări",
+      "gdpr": "GDPR",
+      "securitySection": "Securitate",
+      "legal": "Legal",
+      "password": "Parola",
+      "createAcountMess": "Doriți să creați unul acum?",
+      "privacy": "Politica de confidențialitate",
+      "mfa": "Autentificare multifactorială",
+      "faq": "FAQ",
+      "personalInfo": "Informații personale",
+      "tc": "Termeni și condiții",
+      "accountSettingsSection": "Setările contului",
+      "about": "Despre",
+      "absenceAccountMess": "Nu aveți un cont de medic.",
+      "helpSection": "Ajutor",
+      "createProvider": "Aplicați ca medic"
+    },
+    "password": {
+      "errorMessage": "Numele de utilizator sau parola incorectă",
+      "newPassword": "Parolă Nouă",
+      "passwordChanged": "Parolă schimbată cu succes",
+      "repeatPassword": "Repetați parola",
+      "currentPassword": "Parola actuală"
+    },
+    "buttons": {
+      "directions": "Directii",
+      "cancel": "Anulare",
+      "reschedule": "Reprogramați"
+    },
+    "switcher": {
+      "switchHospital": "Treceți la contul de spital",
+      "switchDoctor": "Treceți la contul de medic"
+    }
+  },
+  "validation": {
+    "confirmEmail": {
+      "codeLimitExceeded": "Limita de trimitere a codului a fost depășită, vă rugăm să reîncercați mai târziu",
+      "codeExpired": "Având în vedere că codul a expirat, faceți clic pe retrimiteți pentru a obține unul nou!",
+      "invalidCodeGeneric": "Cod nevalid dat, vă rugăm să reîncercați mai târziu sau să retrimiteți codul",
+      "codeFailedAttemptsExceeded": "Prea multe încercări eșuate, vă rugăm să reîncercați mai târziu",
+      "codeUserNotFound": "Utilizatorul pentru acest cod nu a fost găsit",
+      "invalidCode": "Cod nevalid dat, vă rugăm să-l reintroduceți",
+      "codeRequestsExceeded": "Prea multe solicitări, vă rugăm să reîncercați mai târziu"
+    },
+    "firstNameInvalid": "Prenumele dat trebuie să aibă cel puțin 1 caracter",
+    "invalid": "Valoarea dată trebuie să aibă cel puțin 1 caracter",
+    "passwordInvalid": "Parola trebuie să aibă cel puțin 8 caractere și să conțină majuscule, litere mici și cifre",
+    "failedToLogin": "Nu s-a putut autentifica, numele de utilizator/parola invalid",
+    "lastNameInvalid": "Numele de familie trebuie să aibă cel puțin 1 caracter",
+    "nameInvalid": "Prenumele trebuie să aibă cel puțin 1 caracter",
+    "failedToChangePass": "Schimbarea parolei a eșuat",
+    "emailInvalid": "E-mailul dat este invalid",
+    "reviewInvalid": "Recenzia trebuie să aibă cel puțin 1 caracter",
+    "urlInvalid": "Adresa URL dată este nevalidă",
+    "yearsExperienceInvalid": "Anii de experiență nu sunt valide!",
+    "passwordRepeatInvalid": "Parola și parola repetată nu se potrivesc!"
+  },
+  "detail": {
+    "doctor": "Detaliu doctor",
+    "services": "Servicii",
+    "reviews": "Recenzii",
+    "hospitals": "Spitale",
+    "info": "Info",
+    "doctors": "Doctori",
+    "address": "Abordare"
+  },
+  "review": {
+    "levels": {
+      "five": "Excepţional",
+      "three": "Bine",
+      "zero": "Vă rugăm să evaluați",
+      "four": "Bun",
+      "one": "Într-adevăr rău",
+      "two": "Dezamăgit"
+    },
+    "addReview": "Adaugă recenzie",
+    "modalTitle": "Adaugă recenzie",
+    "btnAddNew": "Adăuga nou"
+  },
+  "error": {
+    "fetching": {
+      "services": "Eroare la preluarea serviciilor",
+      "reviews": "Eroare la preluarea recenziilor",
+      "image": "Eroare la preluarea imaginii"
+    }
+  },
+  "drawer": {
+    "applyAsOrg": "Aplicați ca organizație",
+    "applyAsDoctor": "Aplicați ca medic"
+  },
+  "patient": {
+    "appointments": {
+      "noAppointments": "Încă nu există întâlniri",
+      "create": "Creați o întâlnire"
+    },
+    "home": {
+      "categories": "Categorii"
+    }
+  }
+}
